@@ -63,7 +63,9 @@ body{
     color: #e63946;
     margin-left: 80px;
 }
-
+div{
+    color: white;
+}
 a{
     text-decoration : none;
 }
