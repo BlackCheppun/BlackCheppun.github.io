@@ -172,11 +172,6 @@ h1{
     text-decoration: underline;
     color : red;
 }
-#hidden{
-    margin-top: 20px;
-    color:#0A1128;
-}
-
 #net{
     height: 30vh;
     display: flex;
