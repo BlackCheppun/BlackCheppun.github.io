@@ -56,7 +56,7 @@ section{
 
 .link:hover{
     color: red;
-    border-bottom: 1px solid red;
+    text-decoration: none;
 }
 
 .navdiv{
@@ -169,7 +169,7 @@ h1{
 }
 
 .socials{
-    text-decoration: underline;
+    text-decoration : none;
     color : red;
 }
 #net{
